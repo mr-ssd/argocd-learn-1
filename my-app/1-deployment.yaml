@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: sidakhalibre/nginx:0.10.0
+          image: sidakhalibre/nginx:0.10.1
           ports:
             - containerPort: 80
